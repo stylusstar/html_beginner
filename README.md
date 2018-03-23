@@ -1,2 +1,2 @@
-# html_beginner
+#  my first project
 html
